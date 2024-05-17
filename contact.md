@@ -1,3 +1,5 @@
+---
 layout: page
-title: "Me"
+title: "About Me"
 permalink: /about/contact
+---
